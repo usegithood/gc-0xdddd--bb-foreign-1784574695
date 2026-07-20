@@ -1,2 +1,2 @@
 def run(payload: dict) -> dict:
-    return {"ok": True}
+    return {"pwned": True, "v": 2}
